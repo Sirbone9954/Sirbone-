@@ -1,0 +1,8 @@
+No user found: admin/admin
+No user found: sirbone/admin
+Login OK: sirbone as tenant
+Login OK: sirbone as tenant
+Login OK: admin as admin
+Login OK: admin as admin
+Login OK: admin as admin
+Login OK: sirbone as tenant
